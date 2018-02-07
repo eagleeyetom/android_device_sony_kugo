@@ -33,6 +33,3 @@ PRODUCT_RELEASE_NAME := kugo
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := F5321
-
-# Prebuilt kernel
-LOCAL_KERNEL := device/sony/kugo/prebuilts/kernel
